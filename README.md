@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Onur</h1>
-<h3 align="center">Muhasebe sistem uzmanı | Yazılım Proje Yöneticisi | Logo Tiger Sistem Uzmanı | Bilgi İşlem Yöneticisi | sql | vba | seo | e-ticaret</h3>
+<h3 align="center">Yazılım Geliştirici | Yazılım Proje Yöneticisi | Logo Tiger Sistem Uzmanı | Muhasebe sistem uzmanı |  Bilgi İşlem Yöneticisi | Siber güvenlik uzmanı | sql | vba | seo | e-ticaret</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cousencoder" alt="cousencoder" /></a> </p>
 
